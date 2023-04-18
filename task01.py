@@ -11,10 +11,13 @@
 # print(rus_words[index])
 
 # { key : value } --> item
-dictionery = {"computer" : "компьютер",
-              "scaner" : "сканер",
-              "printer" : "принтер",
-             "speakers" : "колонки",
-              "keyboard" : "клавиатура",
-              "mouse" : "мышка",
-             "motherboard" : "материнская плата"}
+dictionery = {"computer": "компьютер",
+              "scaner": "сканер",
+              "printer": "принтер",
+              "speakers": "колонки",
+              "keyboard": "клавиатура",
+              "mouse": "мышка",
+              "motherboard": "материнская плата"}
+#
+
+print(dictionery["keyboard"])
