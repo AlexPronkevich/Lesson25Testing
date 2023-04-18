@@ -5,3 +5,6 @@ students = {"Alex": 10, "Peter": 9,
 
 print(students["Anna"])
 print(students.get("Anna"))
+
+print(students["Alice"])
+print(students.get("Alice"))
